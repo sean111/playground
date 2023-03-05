@@ -7,6 +7,7 @@ Create a task manager in multiple languages and frameworks just to push myself t
 ## Directory Layout
 
 ```
+docker/ - Docker stuff 
 api/ - Backend Code
     {language}/
         shared/ - Any code that can be shared accross the frameworks to make it easier
